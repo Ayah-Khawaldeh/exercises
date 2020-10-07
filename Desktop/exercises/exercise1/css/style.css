@@ -1,0 +1,120 @@
+#login {
+     width: 100%;
+    height:50px;
+    background-color: whitesmoke;
+    text-align: right;
+    color: grey;
+    display: block;
+}
+#login a{ 
+    color: grey;
+    text-align: center;
+    padding:20px;
+    margin:25%;
+    display: block;
+}
+
+#head{
+width: 100%;
+height:130px;
+background-color:#f5f5f5;
+color: grey;
+
+}
+
+#head h6.h2{
+    color: black;
+    display: block;
+    float:left;
+}
+nav{
+float: right;
+margin-left:10px;
+text-align: center ;
+
+
+}
+nav a{
+    color: grey;
+}
+ 
+img{
+    width: 100%;
+    height: 500px;
+}
+#first{
+    font-weight: bolder;
+    color: black;
+}
+#second{
+    font-weight: bolder;
+    color:black;
+}
+ h1, h3 {
+
+   
+    color: gray;
+    text-align: center;
+   
+}
+#intro{ 
+    
+    text-align: center;
+    width: 100%;
+    height:70%;
+  
+}
+#container {
+    width: 100%;
+    height: 150px;
+    margin: auto;
+    display:flex;
+    justify-content: center;
+    }
+    #container div{
+        width:25%;
+        height: 260px;
+    color: black; 
+    text-align: justify;
+    text-align: center;
+border: 1px solid white;
+
+margin: 5px;
+   }
+   #container img {
+       width: 75%;
+       height: 100px;
+   }
+   
+    section{
+        font-size:large;
+        color: black;
+        text-align: center;
+        background: #eeeeee;
+        width: 100%;
+        height:30px;
+       margin: 5px;
+       padding: 1%;
+    }
+    .down {
+        width: 100%;
+        height: 180px;
+        margin: auto;
+        display:flex;
+        justify-content: center;
+        }
+       .down div{
+            width:25%;
+            height: 260px;
+        color: black; 
+        text-align: justify;
+        text-align: center;
+    
+    
+    margin: 5px;
+       }
+       footer{
+        text-align: left;
+        padding: 3px;
+        background-color: rgb(163, 162, 162);
+        color: black;}
